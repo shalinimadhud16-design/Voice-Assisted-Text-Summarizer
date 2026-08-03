@@ -1,0 +1,13 @@
+flask
+nltk
+spacy
+transformers
+pydub
+google-cloud-speech
+Pydub
+networkx
+spacy
+python -m nltk.downloader all
+python -m spacy download en_core_web_sm
+torch
+tensorflow
